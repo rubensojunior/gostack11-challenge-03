@@ -29,7 +29,7 @@ This project connects with API available in [here](https://github.com/rubensojun
 
 - ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
 
-### Específicação dos testes
+### Tests
 
 - **`should add a like to the like counter of the repository`**
 
